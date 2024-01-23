@@ -40,8 +40,6 @@
     | 삼성SW Expert Academy | SWE  |
   * 본인풀이 : `플랫폼_문제번호.cpp`
   * 답안풀이 : `플랫폼_문제번호_answer.cpp`
-  * 풀이실패 : `플랫폼_문제번호_failed.cpp`
-  * 시간초과 :` 플랫폼_문제번호_time.cpp`
   * 메모리초과 : `플랫폼_문제번호_memory.cpp`
     * 예시) `BOJ_1234.cpp`   
 
@@ -62,8 +60,9 @@
 
 * PR title: `[YYMMDD] 본인이름 / N문제`
   * `[240123] jaeeunKim / 2문제` 
-* PR description
-  * 문제 별 ...
+* PR description : 자유 양식
+  * 문제 별 풀이 방법, 어려웠던 점, 기억해야 할 점... 등등 정리
+  * [예시 참고](https://github.com/re-ag/CodingTest/pull/15#issue-2085946601)
   
 
 <br />
