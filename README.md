@@ -1,11 +1,11 @@
-# Coding Test Study :speech_balloon:
+# Coding Test Study 🧑‍💻
 
 > 코딩 테스트 스터디 
 
 <br />
 
 
-## 참여자
+## :sparkles:참여자
 <table>
  <tr>
     <td align="center"><a href="https://github.com/re-ag"><img src="https://avatars.githubusercontent.com/re-ag" width="130px;" alt=""></a></td>
@@ -19,14 +19,18 @@
 
 <br />
 
-## 문제집 링크
+## :link:문제집 링크
 
-* [백준 문제집 링크](https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog)
+* [바킹독 백준 문제집](https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog)
+
 
 
 <br />
 
-## 문제 유형
+
+## 📒문제 유형
+> 주제마다 아래의 번호로 디렉토리를 관리합니다.
+
 | 번호 | 주제 |  
 | :--: | :--: | 
 | 0x03 | [배열](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x03.md) |
@@ -61,12 +65,13 @@
 | Appendix A | [문자열 기초](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md) |
 
 
+
 <br />
 
 
 ## :white_check_mark:진행 방법
 * 본 레포지토리를 `clone`하세요. (not `fork`)
-* `main` 브랜치에서 `본인영문이름` 으로 브랜치를 생성해주세요
+* `main` 브랜치에서 `본인영문이름` 으로 새로운 브랜치를 생성해주세요
   * 예시: `jaeeunKim`  
 * 풀이한 문제 유형에 맞는 디렉토리에 `본인영문이름` 의 디렉토리를 만들어 아래와 같은 파일명으로 문제 파일을 저장해주세요.
   * 예시:  `0x0A/jaeeunKim/BOJ_1234.cpp` 
@@ -77,30 +82,30 @@
     | 프로그래머스          | PGS  |
     | 삼성SW Expert Academy | SWE  |
   * 본인풀이 : `플랫폼_문제번호.cpp`
-  * 답안풀이 : `플랫폼_문제번호_answer.cpp`
-  * 메모리초과 : `플랫폼_문제번호_memory.cpp`
     * 예시) `BOJ_1234.cpp`   
+  * 답안풀이 : `플랫폼_문제번호_answer.cpp`
+ * 풀이한 문제마다 `Commit` 해주세요.
+ * 매일 한 문제 이상 풀었다면, `Pull Request` 해주세요.
 
 <br />
 
 ## :white_check_mark:Commit 규칙
-풀이한 문제당 Commit 하기
-* commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간
+**풀이한 문제마다** Commit 해주세요.
+* Commit 메세지: [문제 출처(플랫폼)] 문제이름 / 난이도 / 걸린시간
   * 예시) `[BOJ] N과 M-(1) / 실버2 / 5분`
 * Commit Description : 자유 양식
-  * 문제 링크
-  * 문제 유형
-  * ...
+  * 문제 링크, 문제 유형... 등 자유롭게 적어주세요.
 
 <br />
 
 ## :white_check_mark:PR 규칙
-
+**오늘 푼 문제들(Commit들)을** `main` 브랜치로 `merge`하기 위해 `Pull requests`를 생성해주세요.
 * PR title: `[YYMMDD] 본인이름 / N문제`
   * `[240123] jaeeunKim / 2문제` 
 * PR description : 자유 양식
-  * 문제 별 풀이 방법, 어려웠던 점, 기억해야 할 점... 등등 정리
-  * [예시 참고](https://github.com/re-ag/CodingTest/pull/15#issue-2085946601)
+  * 문제 별 풀이 방법, 어려웠던 점, 기억해야 할 점... 등 자유롭게 적어주세요.
+  * [예시 참고](https://github.com/HMES22/CodingTestStudy/pull/5)
+
   
 
 <br />
