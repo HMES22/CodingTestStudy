@@ -24,7 +24,9 @@
 * [바킹독 백준 문제집](https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog)
 
 
+
 <br />
+
 
 ## 📒문제 유형
 > 주제마다 아래의 번호로 디렉토리를 관리합니다.
@@ -61,6 +63,7 @@
 | 0x1E | [KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md) | 
 | 0x1F | [트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md) |
 | Appendix A | [문자열 기초](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md) |
+
 
 
 <br />
@@ -102,6 +105,7 @@
 * PR description : 자유 양식
   * 문제 별 풀이 방법, 어려웠던 점, 기억해야 할 점... 등 자유롭게 적어주세요.
   * [예시 참고](https://github.com/HMES22/CodingTestStudy/pull/5)
+
   
 
 <br />
