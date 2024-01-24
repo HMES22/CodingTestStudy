@@ -100,8 +100,8 @@
 
 ## :white_check_mark:PR 규칙
 **오늘 푼 문제들(Commit들)을** `main` 브랜치로 `merge`하기 위해 `Pull requests`를 생성해주세요.
-* PR title: `[YYMMDD] 본인이름 / N문제`
-  * `[240123] jaeeunKim / 2문제` 
+* PR title: `[YY/MM/DD] 본인이름 / N문제`
+  * `[24/01/23] jaeeunKim / 2문제` 
 * PR description : 자유 양식
   * 문제 별 풀이 방법, 어려웠던 점, 기억해야 할 점... 등 자유롭게 적어주세요.
   * [예시 참고](https://github.com/HMES22/CodingTestStudy/pull/5)
