@@ -10,10 +10,12 @@
  <tr>
     <td align="center"><a href="https://github.com/re-ag"><img src="https://avatars.githubusercontent.com/re-ag" width="130px;" alt=""></a></td>
     <td align="center"><a href="https://github.com/qkrtpcks"><img src="https://avatars.githubusercontent.com/qkrtpcks" width="130px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/obsidian0402"><img src="https://avatars.githubusercontent.com/obsidian0402" width="130px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/re-ag"><b>re-ag</b></a></td>
     <td align="center"><a href="https://github.com/qkrtpcks"><b>qkrtpcks</b></a></td>
+    <td align="center"><a href="https://github.com/obsidian0402"><b>obsidian0402</b></a></td>
   </tr>
 </table>
 
