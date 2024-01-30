@@ -65,6 +65,7 @@
 | 0x1E | [KMP](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1E.md) | 
 | 0x1F | [트라이](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/0x1F.md) |
 | Appendix A | [문자열 기초](https://github.com/encrypted-def/basic-algo-lecture/blob/master/workbook/Appendix%20A.md) |
+| 0xFF | 자유 문제 |
 
 
 
