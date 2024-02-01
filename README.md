@@ -84,6 +84,7 @@
     | 백준                  | BOJ  |
     | 프로그래머스          | PGS  |
     | 삼성SW Expert Academy | SWE  |
+    | 소프티어              | SFT  |
   * 본인풀이 : `플랫폼_문제번호.cpp`
     * 예시) `BOJ_1234.cpp`   
   * 답안풀이 : `플랫폼_문제번호_answer.cpp`
