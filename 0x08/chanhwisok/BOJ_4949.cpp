@@ -11,6 +11,18 @@ using namespace std;
 3. 마지막 순간에 스택이 비어있으면 yes, 아니라면 no
 */
 
+/*
+주의할 점!! 
+
+Stack, Queue, Deque + if 문에서 top으로 불러오기전에
+empty 여부를 먼저 확인해야함!! 
+if (s.empty() || s.top() != '[' )   ==>> 맞는 것
+
+
+if ( s.top() != '['  ||  s.empty() ) ==> 틀린 것
+
+*/
+
 
 int main() {
 	freopen("0x08_ex.txt", "r", stdin);
