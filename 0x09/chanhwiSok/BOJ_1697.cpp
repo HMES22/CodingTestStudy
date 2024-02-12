@@ -1,3 +1,5 @@
+//1차원 BFS문제
+
 #include <bits/stdc++.h>
 using namespace std;
 #define X first
