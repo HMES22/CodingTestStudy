@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+//
 int n, m;
 int num[10];
 int arr[10];
