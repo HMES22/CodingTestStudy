@@ -1,5 +1,5 @@
 /*
-[24/03/20] sechanPark / 1문제
+[24/03/20] sechanPark / 0문제
 * 출처 : https://www.acmicpc.net/problem/5648
 
 * 번호(파일이름) :  BOJ_5648.cpp
