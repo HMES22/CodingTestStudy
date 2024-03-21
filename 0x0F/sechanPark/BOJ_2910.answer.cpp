@@ -1,5 +1,5 @@
 /*
-[24/03/20] sechanPark / 1문제
+[24/03/20] sechanPark / 0문제
 * 출처 : https://www.acmicpc.net/problem/2910
 
 * 번호(파일이름) :  BOJ_2910.answer.cpp
