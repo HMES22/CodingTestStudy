@@ -1,5 +1,5 @@
 /*
-[24/03/19] sechanPark / 2문제
+[24/03/19] sechanPark / 0문제
 * 출처 : https://www.acmicpc.net/problem/11652
 
 * 번호(파일이름) :  BOJ_11652_answer.cpp
