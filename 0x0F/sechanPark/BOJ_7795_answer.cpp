@@ -1,5 +1,5 @@
 /*
-[24/03/21] sechanPark / 0문제
+[24/03/21] sechanPark / 1문제
 * 출처 : https://www.acmicpc.net/problem/7795
 
 * 번호(파일이름) :  BOJ_7795_answer.cpp
